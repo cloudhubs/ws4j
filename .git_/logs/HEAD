@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 7e422156c337c647f5b373eec4f92a492bc7d1cc Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630546920 -0500	initial pull
+7e422156c337c647f5b373eec4f92a492bc7d1cc 7e422156c337c647f5b373eec4f92a492bc7d1cc Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630547065 -0500	checkout: moving from master to expansion-base
+7e422156c337c647f5b373eec4f92a492bc7d1cc 4a96e2540b8902ebee137afd9d2b712e046ddcd1 Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630547090 -0500	commit: Fix Maven Dependencies
+4a96e2540b8902ebee137afd9d2b712e046ddcd1 e76de2c0ab97ee7433479ad9bc2e63e3bc19b65c Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630547382 -0500	commit: Modify Artifact id in pom file to WS4J-ex
+e76de2c0ab97ee7433479ad9bc2e63e3bc19b65c d5593ad54926b2f328b8493c7bff89b385031234 Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630549108 -0500	commit: Modify Artifact id in pom file to WS4J-ex
+d5593ad54926b2f328b8493c7bff89b385031234 cf62199166811d99172c95f12eb4aa20f631bd2e Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630549660 -0500	commit: Modify Group id in pom file
+cf62199166811d99172c95f12eb4aa20f631bd2e b0d3541c032752980c2e041202e94d34534c78eb Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630550139 -0500	commit: Modify Group id in pom file
+b0d3541c032752980c2e041202e94d34534c78eb 0000000000000000000000000000000000000000 Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630608537 -0500	Branch: renamed refs/heads/expansion-base to refs/heads/main
+0000000000000000000000000000000000000000 b0d3541c032752980c2e041202e94d34534c78eb Amr Elsayed <amrelsayed.mohamed@gmail.com> 1630608537 -0500	Branch: renamed refs/heads/expansion-base to refs/heads/main

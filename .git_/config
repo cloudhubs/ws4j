@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://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@github.com/cloudhubs/WS4J-ex.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://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@github.com/cloudhubs/WS4J-ex.git
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
