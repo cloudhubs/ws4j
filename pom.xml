@@ -29,16 +29,22 @@
       <artifactId>sqlite-jdbc</artifactId>
       <version>3.7.2</version>
     </dependency>
-    <dependency>
+    <!-- https://mvnrepository.com/artifact/de.sciss/jawjaw -->
+	<dependency>
+	    <groupId>de.sciss</groupId>
+	    <artifactId>jawjaw</artifactId>
+	    <version>0.1.0</version>
+	</dependency>
+   <!--  <dependency>
       <groupId>edu.cmu.lti</groupId>
       <artifactId>jawjaw</artifactId>
       <version>1.0.2</version>
       <scope>system</scope>
       <type>jar</type>
       <systemPath>${project.basedir}/jawjaw.jar</systemPath>
-      <!-- <systemPath>${basedir}/lib/jawjaw.jar</systemPath> -->
-      <!-- <systemPath>/Users/amr_elsayed1/Documents/Eclipse Workspace/ws4j/trunk/edu.cmu.lti.ws4j/lib/jawjaw.jar</systemPath> -->
-    </dependency>
+      <systemPath>${basedir}/lib/jawjaw.jar</systemPath>
+      <systemPath>/Users/amr_elsayed1/Documents/Eclipse Workspace/ws4j/trunk/edu.cmu.lti.ws4j/lib/jawjaw.jar</systemPath>
+    </dependency> -->
     <!-- <systemPath>${basedir}/lib/jawjaw.jar</systemPath> -->
     <!-- <dependency>
 	   <groupId>de.sciss</groupId>
