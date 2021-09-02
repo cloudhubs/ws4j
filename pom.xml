@@ -30,10 +30,16 @@
       <version>3.7.2</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/de.sciss/jawjaw -->
-	<dependency>
+	<!-- <dependency>
 	    <groupId>de.sciss</groupId>
 	    <artifactId>jawjaw</artifactId>
 	    <version>0.1.0</version>
+	</dependency> -->
+	
+	<dependency>
+	    <groupId>com.github.paramitamirza</groupId>
+	    <artifactId>CATENA</artifactId>
+	    <version>1.0.3</version>
 	</dependency>
    <!--  <dependency>
       <groupId>edu.cmu.lti</groupId>
