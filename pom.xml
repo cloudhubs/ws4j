@@ -33,8 +33,8 @@
       <groupId>edu.cmu.lti</groupId>
       <artifactId>jawjaw</artifactId>
       <version>1.0.2</version>
-     <!--  <scope>system</scope>
-      <systemPath>${basedir}/lib/jawjaw.jar</systemPath> -->
+     <scope>system</scope>
+      <systemPath>${basedir}/lib/jawjaw.jar</systemPath>
       <!-- <systemPath>/Users/amr_elsayed1/Documents/Eclipse Workspace/ws4j/trunk/edu.cmu.lti.ws4j/lib/jawjaw.jar</systemPath> -->
     </dependency>
     <!-- <systemPath>${basedir}/lib/jawjaw.jar</systemPath> -->
